@@ -89,6 +89,13 @@
 - Link de mi repositorio : <a href="https://github.com/Icielo23/Proyecto-LAB1.git"> https://github.com/Icielo23/Proyecto-LAB1.git</a><br>
 - Commits realizados<br>	
 	<img src="https://i.ibb.co/N1F1zhQ/d3234947-5e04-462c-ba2c-099e0d244861.jpg" alt="">
+<td>
+<h2>- Ejercicio individual Fernando Jesus Coyla Alvarez</h2>
+<p>- Link de mi repositorio : <a href="https://github.com/fernandocoylaA/eda_individual"> https://github.com/fernandocoylaA/eda_individual</a></p>
+<p>- Commits realizados</p>
+<img src="https://i.ibb.co/2YzTbNz/commits-EDA-INDV.jpg" alt="">
+</td>
+	
 <br><br>
 <br><br>
 <br><br>
