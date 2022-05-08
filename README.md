@@ -116,7 +116,8 @@ Java Methods<br>
 <p>La responsabilidad con el proyecto, para no modificarlo sin previo acuerdo con el grupo.</p>
 <p>Trabajo en equipo, para realizar por parte iguales el proyecto. Mediante el uso de divisiones(Ramas)</p>
 <p>Comunicacion con el equipo, para un mejor control del Sistema de versiones se requiere de una frecuente y asertiva comunicacion en el equipo</p>
-<h4>3. ¿Qué son los entándares de codificación? </h4><br>
+<h4>3. ¿Qué son los entándares de codificación? </h4>
+<p>Se entiende como estándar de código a un conjunto de convenciones establecidas de ante mano (denominaciones, formatos, etc.) para la escritura de código.</p><br>
 <br><br></td></tr>
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
