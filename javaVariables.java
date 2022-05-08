@@ -26,6 +26,22 @@ public class javaVariables{
 		int x = 85;
 		int y = 66;
 		System.out.println(x + y); // MOstrara el valor de x+y
+		
+		/*Declaracion de multiples variables*/
+	//La siguiente manera de asignar las variables es correcto, pero existe otra manera para reducir lineas de codigo
+		int x = 15;
+		int y = 16;
+		int z = 30;
+		System.out.println(x + y + z);//Esta mostrara la suma de x+y+z
+		//De la sgte maner es mucho mas sencillo
+		int m = 25, n = 36, p = 5;
+		System.out.println(m + n + p);
+		
+		//Declaracion de un valor para multiples variables
+		int a, b, c;
+		a = b = c = 140;
+		System.out.println(a + b + c);
+		
 
 			
 	}	
