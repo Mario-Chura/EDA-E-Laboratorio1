@@ -112,7 +112,10 @@ Java Methods<br>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
 <h4>1. ¿Por qué Git y GitHub son herramientas importantes para el curso?</h4><br>
 - Estas herramientas son importantes por que nos permiten hacer un trabajo colaborativo donde cada uno puede trabajar en un repositorio local y trabajar en grupo a travez del repositorio en la nube mediante GitHub.<br>
-<h4>2. ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones? </h4><br>
+<h4>2. ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones? </h4>
+<p>La responsabilidad con el proyecto, para no modificarlo sin previo acuerdo con el grupo.</p>
+<p>Trabajo en equipo, para realizar por parte iguales el proyecto. Mediante el uso de divisiones(Ramas)</p>
+<p>Comunicacion con el equipo, para un mejor control del Sistema de versiones se requiere de una frecuente y asertiva comunicacion en el equipo</p>
 <h4>3. ¿Qué son los entándares de codificación? </h4><br>
 <br><br></td></tr>
 <br><br></td></tr>
