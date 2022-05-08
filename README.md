@@ -55,7 +55,7 @@
 				<td colspan="3">INTEGRANTES:
 					<ul>
 					<li><a href="https://github.com/fernandocoylaA">Fernando Jesús Coyla Alvarez</a></li>
-				  <li><a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a></li>
+				 	<li><a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a></li>
 					<li><a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a></li>
 					</ul>
 				</td>
@@ -81,21 +81,46 @@
 <tbody>
 
 <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>
-<h2>- Ejercicio individual Mario Franco Chura Puma</h2><br>
-
-
-	
+<h2>- Parte individual</h2><br>
+<h4>1. Ejercicio individual Mario Franco Chura Puma</h4><br>
+- Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a><br>
+<img src="https://i.ibb.co/nnJnkgf/cuenta.jpg" alt=""><br>
+- Proyecto personal <a href="https://github.com/Mario-Chura">Proyecto personal</a><br>
+- Commits realizado con mi proyecto personal
+<img src="" alt=""><br>
+<h4>2. Ejercicio individual Valery Cielo Iquise Mamani</h4><br>
+- Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a><br>
+<img src="" alt=""><br>
+- Proyecto personal <a href="">Proyecto personal</a><br>
+- Commits realizado con mi proyecto personal
+<img src="" alt=""><br>
+<h4>3. Ejercicio individual Fernando Jesús Coyla Alvarez</h4><br>
+- Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/fernandocoylaA">Fernando Jesús Coyla Alvarez</a>
+<img src="" alt=""><br>
+- Proyecto personal <a href="">Proyecto personal</a><br>
+- Commits realizado con mi proyecto personal
+<img src="" alt=""><br>
+<h2>- Parte grupal</h2><br>
+- Cree un archivo por cada tema del manual de java (https://www.w3schools.com/java/default.asp), haga commit e inluyalo en su informe grupal (Dividanse los temas).<br>
+Java Tutorial<br>
+Java Methods<br>
+- Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.<br>
 <br><br>
 <br><br>
 <br><br>
 </td></tr>
 <tr><td>II. SOLUCIÓN DEL CUESTINARIO<br>
-<h2>- Texto</h2><br>
-- Texto
-<br>
+<h4>1. ¿Por qué Git y GitHub son herramientas importantes para el curso?</h4><br>
+- Estas herramientas son importantes por que nos permiten hacer un trabajo colaborativo donde cada uno puede trabajar en un repositorio local y trabajar en grupo a travez del repositorio en la nube mediante GitHub.<br>
+<h4>2. ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones? </h4><br>
+<h4>3. ¿Qué son los entándares de codificación? </h4><br>
+<br><br></td></tr>
 <br><br></td></tr>
 <tr><td>III. CONCLUSIONES<br>
--Texto
+- Github nos permite trabajar en equipo, donde varios desarrolladores trabajen al mismo tiempo y de forma paralela en un
+proyecto, tambien nos permite visualizar quien ha realizado los cambios y cuando los ha realizado.<br>
+- Githut tambien nos da la ventaja de trabajar sin estar conectado a la red donde cada desarrollador puede trabajar o 
+enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un repositorio local.<br>
 <br>  
 <br><br></td></tr>
 </tbody>
@@ -109,7 +134,7 @@
 </theader>
 <tbody>
 	<td>
--Texto
+	- Retroalimentacion
 	</td>
 </tbody>
 </table>
@@ -122,7 +147,9 @@
 </theader>
 <tbody>
 	<td>
--Texto
+	- Microsoft. (2016). GitHub Docs. Geraadpleegd op 8 mei 2022, van https://docs.github.com/es/get-started/quickstart/create-a-repo <br>
+	- Java Tutorial. (2015). W3School. Geraadpleegd op 8 mei 2022, van https://www.w3schools.com/java/default.asp <br>
+	- Stack Overflow - Where Developers Learn, Share, & Build Careers. (2013). Stack Overflow. Geraadpleegd op 8 mei 2022, van https://stackoverflow.com/ <br>
 	</td>
 </tbody>
 </table>
