@@ -14,6 +14,20 @@ public class javaVariables{
 		char myLetter = 'D';//Tipo Caracter
 		boolean myBool = true;//Tipo Booleano (True/False)
 		String myText = "Hello";//Tipo String (Cadena de Texto)
+
+		/*Imprimir variables*/
+		//Hacemos uso del Sistema de Impresion println() 
+		System.out.println("Hello " + name);
+		//Sumando cadenas
+		String lastName = "Coyla";
+		String fullName = name + lastName;//Asignamos en otra variable del mismo tipo
+		System.out.println(fullName);//Mostramos esa variable que contine la suma de cadenas
+		//Mostrar suma de variables, sin necesidad de asignarla a una variable
+		int x = 85;
+		int y = 66;
+		System.out.println(x + y); // MOstrara el valor de x+y
+
+			
 	}	
 
 }
