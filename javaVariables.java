@@ -29,10 +29,10 @@ public class javaVariables{
 		
 		/*Declaracion de multiples variables*/
 	//La siguiente manera de asignar las variables es correcto, pero existe otra manera para reducir lineas de codigo
-		int x = 15;
-		int y = 16;
-		int z = 30;
-		System.out.println(x + y + z);//Esta mostrara la suma de x+y+z
+		int j = 15;
+		int k = 16;
+		int l = 30;
+		System.out.println(j + k + l);//Esta mostrara la suma de x+y+z
 		//De la sgte maner es mucho mas sencillo
 		int m = 25, n = 36, p = 5;
 		System.out.println(m + n + p);
