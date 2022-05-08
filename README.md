@@ -137,7 +137,8 @@ enviar cambios sin nesecidad de estar conectado dado a que se trabaja con un rep
 </theader>
 <tbody>
 	<td>
-	- Retroalimentacion
+	- En este primer laboratorio se pudo empezar a practicar el lenguaje Java, iniciando con temas como sintaxis, variables, operadores, metodos, condicionales, bucles, arreglos, y otros mas. Permitiendo ampliar el conocimiento sobre este lenguaje
+Ademas el uso de Git para crear el repositorio Individual y Grupal, que para el caso grupal permite un trabajo cooperativo y dividido equitativamente. Todo el uso de Git usando comando como git init, git branch, git log, git status, entre otros, permitiendo un mejor entendimiento de este Sistema de Control de Versiones 
 	</td>
 </tbody>
 </table>
