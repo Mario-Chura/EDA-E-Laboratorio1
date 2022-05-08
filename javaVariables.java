@@ -42,7 +42,13 @@ public class javaVariables{
 		a = b = c = 140;
 		System.out.println(a + b + c);
 		
-
+		/*Identificadores*/
+		//Se denominan asi a los nombres unicos que deben tener las variables
+		// Good
+		int minutesPerHour = 60;
+		int m = 60;//Es correcto pero no se define que significado tiene la variable m
+		//Es por eso que se recomienda usar nombres descriptivos para las variables
+		//Teniendo en cuenta que el codigo debe ser comprensible
 			
 	}	
 
