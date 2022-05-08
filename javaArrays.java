@@ -10,7 +10,16 @@ public class javaArrays{
 		//Para saber la longitud del array
 		System.out.println(cars.length);//devolvera 4, el tamaño del Array
 
-		
+		/*Bucle de Arrays*/
+		//Usamos en bucle for para recorrer el Array, complementado con lenght para establecer la repeticion del bucle
+		for (int i = 0; i < cars.length; i++) {
+ 		 System.out.println(cars[i]);
+		} //MOstrara la lista de los valores del Array
+		//For-Each
+		//Tambien podemos hacer uso del bucle ForEach
+		for (String i : cars) {
+ 		 System.out.println(i);
+		} //De esta manera se realiza el recorrido de manera mas practica	
 	} 
 	
 }
