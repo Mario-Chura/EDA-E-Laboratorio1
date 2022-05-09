@@ -100,7 +100,7 @@
 <img src="https://i.ibb.co/8B2ZkTS/git-Cuenta.jpg" alt=""><br>
 - Proyecto personal <a href="https://github.com/fernandocoylaA/eda_individual">Proyecto personal</a><br>
 - Commits realizado con mi proyecto personal
-<img src="https://i.ibb.co/DLwsp2p/commits-EDA-lab01-Indiv.jpg" alt=""><br>
+<br><img src="https://i.ibb.co/DLwsp2p/commits-EDA-lab01-Indiv.jpg" alt=""><br>
 <h2>- Parte grupal</h2><br>
 - Cree un archivo por cada tema del manual de java (https://www.w3schools.com/java/default.asp), haga commit e inluyalo en su informe grupal (Dividanse los temas).<br>
 Java Tutorial<br>
