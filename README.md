@@ -85,7 +85,7 @@
 <h4>1. Ejercicio individual Mario Franco Chura Puma</h4><br>
 - Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/Mario-Chura">Mario Franco Chura Puma</a><br>
 <img src="https://i.ibb.co/nnJnkgf/cuenta.jpg" alt=""><br>
-- Proyecto personal <a href="https://github.com/Mario-Chura">Proyecto personal</a><br>
+- Proyecto personal <a href="https://github.com/Mario-Chura/Proyecto_Personal.git">Proyecto personal</a><br>
 - Commits realizado con mi proyecto personal
 <img src="" alt=""><br>
 <h4>2. Ejercicio individual Valery Cielo Iquise Mamani</h4><br>
