@@ -91,10 +91,10 @@
 <img src="" alt=""><br>
 <h4>2. Ejercicio individual Valery Cielo Iquise Mamani</h4><br>
 - Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/Icielo23">Valery Cielo Iquise Mamani</a><br>
-<img src="" alt=""><br>
-- Proyecto personal <a href="">Proyecto personal</a><br>
+<img src="https://i.ibb.co/XWhf8fL/valllssss.jpg" alt=""><br>
+- Proyecto personal <a href="https://github.com/Icielo23/1-Proyecto-personal-EDA.git">Proyecto personal</a><br>
 - Commits realizado con mi proyecto personal
-<img src="" alt=""><br>
+<img src="https://i.ibb.co/3WdRP2z/525.jpg" alt=""><br>
 <h4>3. Ejercicio individual Fernando Jesús Coyla Alvarez</h4><br>
 - Cuenta con el correo institucional configurado como estudiante <a href="https://github.com/fernandocoylaA">Fernando Jesús Coyla Alvarez</a>
 <img src="https://i.ibb.co/8B2ZkTS/git-Cuenta.jpg" alt=""><br>
