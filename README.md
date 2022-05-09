@@ -36,7 +36,7 @@
 			</tr>
 			<tr>
 				<td><span style="font-weight:bold;">TÍTULO DE LA PRÁCTICA:<span></td>
-				<td colspan="5">Git - GitHub</td>
+				<td colspan="5">Revisión de elementos de programación (Parte I)</td>
 			</tr>
 			<tr>
 				<td>NÚMERO DE PRÁCTICA:</td>
